@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is juan elias
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy juan elias
 ==================================================================================================================================
 
 Soy un desarrollador web apasionado por construir experiencias digitales robustos y amigables con el usuario. Con experiencia en php, javascript, React, Node.js y bases de datos SQL, me especializo en transformar ideas en soluciones web funcionales y eficientes. Siempre estoy buscando aprender y aplicar las últimas tendencias para crear productos impactantes.
 
-* 🌍  I'm based in peru
-* ✉️  You can contact me at [rjuanelias2@gmail.com](mailto:rjuanelias2@gmail.com)
-* 🧠  I'm learning astro,react
-* 🤝  I'm open to collaborating on Aplicaciones Web
+* 🌍  Estoy radicado en Perú
+* ✉️  Puedes contactarme en [rjuanelias2@gmail.com](mailto:rjuanelias2@gmail.com)
+* 🧠  Estoy aprendiendo astro,react
+* 🤝  Estoy abierto a colaborar en Aplicaciones Web.
 
 <a href="https://www.github.com/juanECR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juanECR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
