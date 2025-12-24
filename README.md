@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy juan elias
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)soy juan elias
 ==================================================================================================================================
 
 Soy un desarrollador web apasionado por construir experiencias digitales robustos y amigables con el usuario. Con experiencia en php, javascript, React, Node.js y bases de datos SQL, me especializo en transformar ideas en soluciones web funcionales y eficientes. Siempre estoy buscando aprender y aplicar las últimas tendencias para crear productos impactantes.
